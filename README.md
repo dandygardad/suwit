@@ -1,4 +1,4 @@
-# Game Suwit with JavaScript
+# Simple Suwit Game with JavaScript
 
 **note :**\
 urutan javascriptnya ancur :'(\
