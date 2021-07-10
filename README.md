@@ -4,5 +4,5 @@
 urutan javascriptnya ancur :'(\
 but it works! :)
 
-***somewhere romang lompoa, 2021.***\
+***somewhere in romang lompoa, 2021.***\
 **- Dandy Garda**
